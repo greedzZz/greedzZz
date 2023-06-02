@@ -1,5 +1,4 @@
-<h1 align="center">Hello there
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello there</h1>
 <h3 align="center">My name is Anvar Gazizov.</h3>
 <h3 align="center">I am a third-year Informatics and Computer Technology student at ITMO University.</h3>
 
