@@ -1,6 +1,7 @@
 <h1 align="center">Hello there</h1>
-<h3 align="center">My name is Anvar Gazizov.</h3>
-<h3 align="center">I am a third-year Informatics and Computer Technology student at ITMO University.</h3>
+<h3 align="center">My name is Anvar Gazizov</h3>
+<h3 align="center">I am a fourth-year Informatics and Computer Science student at ITMO University</h3>
+<h3 align="center">And an engineer at Solanteq</h3>
 
 ### Mail:
 anv.gazizov@gmail.com
@@ -17,5 +18,5 @@ anv.gazizov@gmail.com
 ### Languages and tools:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,html,css,postgres,linux,maven,gradle,git,c,cpp,jquery,regex" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,postgres,maven,gradle,git,docker,selenium,linux,js,html,css" />
 </a>
