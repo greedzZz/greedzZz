@@ -1,7 +1,7 @@
 <h1 align="center">Hello there</h1>
 <h3 align="center">My name is Anvar Gazizov</h3>
-<h3 align="center">I am a fourth-year Informatics and Computer Science student at ITMO University</h3>
-<h3 align="center">And an engineer at Solanteq</h3>
+<h3 align="center">I am a developer at New Athena</h3>
+<h3 align="center">And a fourth-year Informatics and Computer Science student at ITMO University</h3>
 
 ### Mail:
 anv.gazizov@gmail.com
